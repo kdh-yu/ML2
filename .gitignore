@@ -1,11 +1,15 @@
+# Files
 test.ipynb
 test.py
 model.pth
 model_weights.pth
+Assignment/Assignment#3/kaggle.json
 
+# extensions
 *.tar.gz
 *.zip
 
+# Folders
 /Assignment/Assignment#1/data/
 /Assignment/Assignment#2/data/
 data/
