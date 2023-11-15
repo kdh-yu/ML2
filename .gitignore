@@ -4,6 +4,7 @@ model.pth
 model_weights.pth
 
 *.tar.gz
+*.zip
 
 /Assignment/Assignment#1/data/
 /Assignment/Assignment#2/data/
