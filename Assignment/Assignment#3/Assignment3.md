@@ -1,5 +1,8 @@
 # SOI1010 Machine Learning II - Assignment #3
-2022094093 Kim Dohoon, Dept. of Data Science
+2022094093 Kim Dohoon, Dept. of Data Science  
+All codes are at: https://github.com/kdh-yu/ML2/tree/main/Assignment/Assignment%233  
+Colab : https://drive.google.com/file/d/1-DL3OymHezjRfMtOftpax5FTdvBzA2MV/view?usp=sharing  
+
 ## Kaggle competition: Sign Language Recognition  
 
 Your task is to achieve as high performance as possible (without cheating, of course). You can use any model you want. But, I suggest that you start with MLP and Convolutional Neural Networks (CNN). I strongly encourage you to research and study advanced neural network models and implement them to get better performance.
