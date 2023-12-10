@@ -4,9 +4,10 @@ test.py
 model.pth
 best.pth
 model_weights.pth
-Assignment/Assignment#3/kaggle.json
-Assignment/Assignment#3/korean-sign-language-recognition-soi1010-2023.zip
+/Assignment/Assignment#3/kaggle.json
+/Assignment/Assignment#3/korean-sign-language-recognition-soi1010-2023.zip
 000.jpg
+.gitignore
 
 # extensions
 *.tar.gz
