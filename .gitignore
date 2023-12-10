@@ -14,10 +14,8 @@ model_weights.pth
 *.zip
 
 # Folders
+data/
 /Assignment/Assignment#1/data/
 /Assignment/Assignment#2/data/
-data/
 /Assignment/Assignment#3/data/
 /Assignment/Assignment#3/wandb/
-
-/Assignment/Assignment#3/
