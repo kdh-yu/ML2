@@ -8,6 +8,9 @@ model_weights.pth
 /Assignment/Assignment#3/korean-sign-language-recognition-soi1010-2023.zip
 000.jpg
 .gitignore
+/Assignment/Assignment#1/Assignment1.pdf
+/Assignment/Assignment#3/SOI1010_Machine_Learning_II___Assignment_3_2023 [Updated_v2].pdf
+
 
 # extensions
 *.tar.gz
@@ -15,7 +18,11 @@ model_weights.pth
 
 # Folders
 data/
+/Assignment/Assignment#3/
 /Assignment/Assignment#1/data/
 /Assignment/Assignment#2/data/
 /Assignment/Assignment#3/data/
 /Assignment/Assignment#3/wandb/
+/wandb/
+/Answer/
+/Practice/
